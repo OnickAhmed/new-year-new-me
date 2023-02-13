@@ -52,8 +52,7 @@
   width: 570px;
 }
 .fail-content {
-  padding-right: 100px;
-  padding-leftD: 100px;
+  padding: 100px;
   text-align: left;
 }
 .fail-content .fail-list {
